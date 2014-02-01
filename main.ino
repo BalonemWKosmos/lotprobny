@@ -52,4 +52,3 @@ void loop(void)
   Serial.println(" hPa");
   delay(500);
 }
-
